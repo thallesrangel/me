@@ -1,0 +1,16 @@
+.App {
+  height: 100vh;
+  background-color: #121214;
+  color: #FFF;
+}
+
+.center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height:100vh;  
+}
+
+.profession {
+  color: #8257E5;
+}
