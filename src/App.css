@@ -14,3 +14,11 @@
 .profession {
   color: #8257E5;
 }
+
+.notFound {
+  text-align: center;
+}
+.notFound img
+{
+  max-width: 300px;
+}
